@@ -32,18 +32,27 @@ This repository contains my solutions for the SchooLinks take-home challenge. Th
 ## Setup & Running Locally
 
 1) Create a virtual environment
+
+```
 python3 -m venv .venv
 source .venv/bin/activate
+```
 
-2) Run migrations
+3) Run migrations
+```   
 python manage.py makemigrations
 python manage.py migrate
+```
 
-3) Run the ingestion script
+5) Run the ingestion script
+```
 python college_applications.py applications.csv
+```
 
-4) Run tests
+7) Run tests
+```
 pytest -q
+```
 
 ---
 
@@ -190,4 +199,4 @@ Used mainly for high-level baseline information such as admit rates and enrollme
 Used to understand how colleges weigh factors like GPA and test scores when that information is published.
 
 **Internal research or curated datasets**  
-Used to standardize and maintain college-level metadata before it’s used for classification.
+Used to standardize and maintain college data before it’s used for classification.
