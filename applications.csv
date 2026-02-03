@@ -1,0 +1,501 @@
+student_number ,ceeb_code,college_name,application_result,application_type,attending
+975319,2562,New York University,accepted,Early Decision,1
+975319,5246,The George Washington University,withdrawn,Rolling Decision,0
+975319,2521,The New School,withdrawn,Early Action,0
+975319,3087,Boston University,withdrawn,Rolling Decision,0
+975319,5007,American University,,Rolling Decision,0
+975319,3094,Brown University,unknown,Rolling Decision,0
+975319,2038,Barnard College,,Rolling Decision,0
+975319,2259,Fordham University,withdrawn,Early Action,0
+1002758,5180,East Carolina University,accepted,Rolling,0
+1002758,5404,Towson University,denied,Rolling Decision,0
+1002758,2635,Pace University,,Rolling Decision,0
+1002758,4832,University of Arizona,accepted,Rolling,0
+1002758,5113,College of Charleston,denied,Early Action,0
+1002758,5837,Coastal Carolina University,accepted,Early Action,1
+1002758,3915,University of Connecticut,denied,Rolling Decision,0
+1002758,3966,Eastern Connecticut State University,accepted,Early Action,0
+1002758,5183,Elon University,accepted,Early Action,0
+1002758,5229,Florida Atlantic University,denied,Rolling,0
+1002758,5815,University of Miami,denied,Early Action,0
+1002758,2660,Pennsylvania State University-Penn State Main Campus,denied,Rolling,0
+1002758,5819,The University of Tampa,denied,Early Action,0
+1002758,3919,University of Rhode Island,accepted,Early Action,0
+1002758,,University of Connecticut-Stamford,accepted,Rolling Decision,0
+974608,3092,Brandeis University,unknown,Rolling Decision,0
+974608,1839,University of Michigan-Ann Arbor,,Rolling Decision,0
+974608,1832AM,University of Chicago,denied,Early Action,0
+974608,2116,Columbia University in the City of New York,denied,Rolling Decision,0
+974608,CC4220,Northwestern University,denied,Rolling Decision,0
+974608,2259,Fordham University,accepted,Early Action,0
+974608,3083,Boston College,unknown,Rolling Decision,0
+974608,3667,Northeastern University,unknown,Early Decision,0
+974608,3693,Providence College,accepted,Early Action,0
+974608,3095,Bryant University,unknown,Rolling Decision,0
+974608,1412,Loyola University Chicago,accepted,Rolling,1
+974608,2074,Carnegie Mellon University,,Rolling Decision,0
+974608,5007,American University,accepted,Rolling Decision,0
+974608,2098,Cornell University,denied,Rolling Decision,0
+974608,5332,Johns Hopkins University,denied,Rolling Decision,0
+974608,2037,Bard College,unknown,Rolling Decision,0
+990430,2365,Lehigh University,unknown,Rolling Decision,unknown
+990430,3915,University of Connecticut,accepted,Rolling Decision,unknown
+990430,1463,Miami University-Oxford,accepted,Early Action,unknown
+990430,3759,Salve Regina University,accepted,Early Action,unknown
+990430,5370,Loyola University Maryland,accepted,Rolling Decision,unknown
+990430,1631,Purdue University-Main Campus,unknown,Early Action,unknown
+990430,6832,Tulane University of Louisiana,,Rolling Decision,unknown
+990430,1853,University of Michigan-Flint,,Rolling,unknown
+990430,3282,College of the Holy Cross,,Rolling Decision,unknown
+990430,2259,Fordham University,accepted,Early Action,1
+990430,3083,Boston College,denied,Early Decision,unknown
+990430,2823,Syracuse University,accepted,Rolling Decision,unknown
+990430,5820,University of Virginia-Main Campus,denied,Early Action,unknown
+990430,1846,University of Wisconsin-Madison,denied,Early Action,unknown
+990430,5814,University of Maryland-College Park,denied,Early Action,unknown
+990430,1324A,Indiana University-Bloomington,accepted,Early Action,unknown
+990430,3693,Providence College,cond. accept,Early Action,unknown
+990430,2275,Gettysburg College,accepted,Early Action,unknown
+990430,2086,Colgate University,denied,Rolling Decision,unknown
+990430,3667,Northeastern University,unknown,Early Action,unknown
+990430,1841,University of Notre Dame,,Rolling Decision,unknown
+990430,5816,University of North Carolina at Chapel Hill,unknown,Rolling Decision,unknown
+990430,3667,Northeastern University,,Rolling Decision,unknown
+994461,1846,University of Wisconsin-Madison,withdrawn,Early Action,0
+994461,6832,Tulane University of Louisiana,accepted,Early Decision,1
+994461,5569,University of Richmond,withdrawn,Early Action,0
+994461,4852,University of Southern California,withdrawn,Early Action,0
+994461,4841,University of Colorado Boulder,withdrawn,Early Action,0
+994461,2038,Barnard College,,Rolling Decision,0
+994461,4837,University of California-Los Angeles,,Rolling Decision,0
+994461,2365,Lehigh University,,Rolling Decision,0
+994461,5885,Wake Forest University,,Rolling Decision,0
+994461,4833,University of California-Berkeley,,Rolling Decision,0
+994461,3987,Yale University,,Rolling Decision,0
+994461,4859,University of California-Irvine,,Rolling Decision,0
+994461,3351,Dartmouth College,,Rolling Decision,0
+994461,4836,University of California-San Diego,,Rolling Decision,0
+994461,5816,University of North Carolina at Chapel Hill,withdrawn,Early Action,0
+994461,CC4220,Northwestern University,,Rolling Decision,0
+994461,3915,University of Connecticut,unknown,Rolling Decision,0
+994461,3083,Boston College,,Rolling Decision,0
+994461,5814,University of Maryland-College Park,,Rolling Decision,0
+994461,3094,Brown University,,Rolling Decision,0
+994461,1839,University of Michigan-Ann Arbor,withdrawn,Early Action,0
+994461,5815,University of Miami,withdrawn,Early Action,0
+994461,2823,Syracuse University,,Rolling Decision,0
+994461,4835AM,University of California-Santa Barbara,,Rolling Decision,0
+994460,3987,Yale University,,Rolling Decision,0
+994460,5569,University of Richmond,,Rolling Decision,0
+994460,CC4220,Northwestern University,denied,Rolling Decision,0
+994460,1839,University of Michigan-Ann Arbor,unknown,Early Action,0
+994460,2562,New York University,denied,Rolling Decision,0
+994460,866,The American University of Paris,,Rolling,0
+994460,1846,University of Wisconsin-Madison,accepted,Early Action,1
+994460,2038,Barnard College,unknown,Rolling Decision,0
+994460,5814,University of Maryland-College Park,,Rolling Decision,0
+994460,4841,University of Colorado Boulder,accepted,Early Action,0
+994460,2823,Syracuse University,unknown,Rolling Decision,0
+994460,5816,University of North Carolina at Chapel Hill,denied,Early Action,0
+994460,5820,University of Virginia-Main Campus,,Rolling Decision,0
+994460,5246,The George Washington University,,Rolling Decision,0
+994460,4852,University of Southern California,denied,Early Action,0
+994460,2926,University of Pennsylvania,,Rolling Decision,0
+994460,2259,Fordham University,,Rolling Decision,0
+994460,3667,Northeastern University,unknown,Rolling Decision,0
+994460,3083,Boston College,,Rolling Decision,0
+994460,2823,Syracuse University,,Rolling Decision,0
+994460,7775UK,University of St Andrews,,Rolling,0
+994460,4842,University of Denver,accepted,Rolling Decision,0
+994460,5815,University of Miami,unknown,Rolling Decision,0
+994460,4607,Pomona College,,Rolling Decision,0
+994460,4837,University of California-Los Angeles,,Rolling Decision,0
+994460,4833,University of California-Berkeley,,Rolling Decision,0
+994460,3915,University of Connecticut,accepted,Rolling Decision,0
+994460,5156,Duke University,,Rolling Decision,0
+994460,3087,Boston University,denied,Rolling Decision,0
+976904,1631,Purdue University-Main Campus,denied,Early Action,0
+976904,2927,University of Pittsburgh-Pittsburgh Campus,denied,Rolling,0
+976904,3969,Worcester Polytechnic Institute,accepted,Early Action,1
+976904,2194,Drexel University,accepted,Early Action,0
+976904,2760,Rochester Institute of Technology,,Rolling Decision,0
+976904,3667,Northeastern University,denied,Early Action,0
+976904,5811,University of Delaware,,Early Action,0
+976904,2823,Syracuse University,,Rolling Decision,0
+976191,2906,Temple University,denied,Rolling Decision,0
+976191,3898,Central Connecticut State University,accepted,Rolling Decision,unknown
+976191,3465,Johnson & Wales University-Providence,accepted,Rolling Decision,unknown
+976191,3662,Southern Connecticut State University,accepted,Rolling,unknown
+976191,3301,Culinary Institute of America,unknown,Rolling,unknown
+976191,,Lincoln culinary institute - Shelton,,Rolling Decision,unknown
+976191,3663,University of New Haven,denied,Rolling Decision,0
+976191,5297,Howard University,denied,Rolling Decision,0
+976191,2799,St. John's University-New York,accepted,Rolling Decision,unknown
+976191,3390,Fairfield University,denied,Rolling Decision,0
+976191,3919,University of Rhode Island,accepted,Rolling Decision,unknown
+976191,3966,Eastern Connecticut State University,accepted,Early Action,unknown
+976191,5110,Clark Atlanta University,no decision,Rolling Decision,unknown
+976191,3001,Albertus Magnus College,accepted,Rolling,unknown
+976191,3284,Connecticut College,denied,Rolling Decision,0
+976191,3915,University of Connecticut,denied,Rolling Decision,0
+976191,5251,Georgia State University,accepted,Rolling Decision,unknown
+976192,2635,Pace University,accepted,Rolling Decision,0
+976192,987A,Jack Kent Cooke Foundation,,Rolling Decision,0
+976192,,University of Connecticut-Stamford,accepted,Rolling Decision,1
+976192,3390,Fairfield University,unknown,Early Action,0
+976192,3662,Southern Connecticut State University,,Rolling,0
+976192,3963,Wheaton College - Massachusetts,,Early Action,0
+976192,3284,Connecticut College,,Rolling Decision,0
+976192,3390,Fairfield University,unknown,Early Action,0
+976192,3075,Babson College,,Early Action,0
+976192,3096,Bentley University,,Rolling Decision,0
+976192,3001,Albertus Magnus College,accepted,Rolling,0
+976192,3915,University of Connecticut,,Rolling Decision,0
+976192,3915,University of Connecticut,no decision,Rolling Decision,unknown
+976192,3279,Clark University,,Rolling Decision,0
+976192,3663,University of New Haven,accepted,Early Action,0
+976192,3712,Quinnipiac University,accepted,Early Action,0
+976192,2397,Manhattanville University,,Rolling,0
+976192,5297,Howard University,no decision,Early Action,0
+976192,3436,University of Hartford,accepted,Rolling,0
+975900,3291,Champlain College,,Rolling Decision,0
+975900,3966,Eastern Connecticut State University,,Early Action,0
+975900,3662,Southern Connecticut State University,,Rolling,0
+975900,3916,University of Maine,,Early Action,0
+975900,MC2081,Vermont State University (All Campuses),,Rolling,0
+975900,3523,Westfield State University,,Early Action,0
+975900,2527,SUNY Morrisville,,Rolling,0
+975900,9268,Norwalk Community College- DO NOT USE!,accepted,Rolling Decision,0
+975900,9268,CT State Community College - All Campuses,accepted,Rolling Decision,1
+974150,3291,Champlain College,unknown,Rolling Decision,0
+974150,3916,University of Maine,unknown,Early Action,0
+974150,2527,SUNY Morrisville,unknown,Rolling,0
+974150,3523,Westfield State University,unknown,Early Action,0
+974150,3662,Southern Connecticut State University,unknown,Rolling,0
+974150,MC2081,Vermont State University (All Campuses),unknown,Rolling,0
+974150,3966,Eastern Connecticut State University,accepted,Early Action,1
+974228,339,New England Institute of Technology,accepted,Rolling,0
+974228,2765,Rutgers University-New Brunswick,accepted,Early Action,0
+974228,3919,University of Rhode Island,unknown,Early Action,0
+974228,2929,University of Scranton,accepted,Early Action,1
+974228,4832,University of Arizona,accepted,Rolling,0
+974228,5180,East Carolina University,accepted,Rolling,0
+974228,5837,Coastal Carolina University,accepted,Early Action,0
+974228,5392,James Madison University,denied,Early Action,0
+1005720,1839,University of Michigan-Ann Arbor,denied,Early Action,0
+1005720,5219,Florida State University,denied,Rolling Decision,0
+1005720,4007,Arizona State University-Tempe,accepted,Rolling,0
+1005720,5111,Clemson University,denied,Early Action,0
+1005720,3915,University of Connecticut,accepted,Rolling Decision,0
+1005720,5812,University of Florida,denied,Rolling Decision,0
+1005720,5813,University of Georgia,denied,Early Action,0
+1005720,1324A,Indiana University-Bloomington,accepted,Early Action,0
+1005720,3917,University of Massachusetts-Amherst,,Early Action,0
+1005720,1839,University of Michigan-Ann Arbor,,Early Action,0
+1005720,5496,North Carolina State University at Raleigh,unknown,Early Action,0
+1005720,2660,Pennsylvania State University-Penn State Main Campus,accepted,Early Action,1
+1005720,2823,Syracuse University,,Rolling Decision,0
+1005720,1843,The University of Tennessee-Knoxville,,Early Action,0
+1005720,6003,Texas A & M University-College Station,accepted,Rolling Decision,0
+1005720,6882,The University of Texas at Austin,denied,Rolling Decision,0
+1005720,2098,Cornell University,,Rolling Decision,0
+1005720,1592,Ohio State University-Main Campus,accepted,Early Action,0
+1005720,3351,Dartmouth College,,Rolling Decision,0
+1005720,1841,University of Notre Dame,,Rolling Decision,0
+1005720,5816,University of North Carolina at Chapel Hill,,Rolling Decision,0
+1005720,3075,Babson College,unknown,Early Action,0
+1005720,6032,Baylor University,,Early Action,0
+1005720,5818,University of South Carolina-Columbia,unknown,Early Action,0
+974424,2929,University of Scranton,unknown,Rolling Decision,unknown
+974424,5811,University of Delaware,unknown,Rolling Decision,unknown
+974424,987A,Jack Kent Cooke Foundation,unknown,Rolling Decision,unknown
+974424,3780,Sacred Heart University,unknown,Early Action II,1
+974424,3919,University of Rhode Island,unknown,Rolling Decision,unknown
+974424,3987,Yale University,unknown,Rolling Decision,unknown
+974424,3712,Quinnipiac University,unknown,Rolling Decision,unknown
+974424,2926,University of Pennsylvania,unknown,Rolling Decision,unknown
+974424,3911,University of Massachusetts-Lowell,unknown,Early Action II,unknown
+974424,3367,Emerson College,unknown,Rolling Decision,unknown
+974424,3693,Providence College,unknown,Rolling Decision,unknown
+974424,3284,Connecticut College,unknown,Rolling Decision,unknown
+974424,4832,University of Arizona,,Rolling,unknown
+974424,3915,University of Connecticut,unknown,Rolling Decision,unknown
+974424,2295,Hofstra University,unknown,Early Action II,unknown
+974424,1839,University of Michigan-Ann Arbor,,Rolling Decision,unknown
+974424,3390,Fairfield University,unknown,Rolling Decision,unknown
+974424,3434AM,Harvard University,unknown,Rolling Decision,unknown
+974424,5150,Davidson College,unknown,Rolling Decision,unknown
+974424,2361,Lafayette College,unknown,Rolling Decision,unknown
+974424,2672,Princeton University,unknown,Rolling Decision,unknown
+974424,3754,University of Saint Joseph,unknown,Rolling,unknown
+974424,2926,University of Pennsylvania,,Rolling Decision,unknown
+974424,3436,University of Hartford,unknown,Early Action,unknown
+974424,3771,Suffolk University,unknown,Rolling Decision,unknown
+974424,3350,Western Connecticut State University,unknown,Rolling,unknown
+974424,2660,Pennsylvania State University-Penn State Main Campus,unknown,Early Action,unknown
+974424,2562,New York University,unknown,Rolling Decision,unknown
+974424,3924,University of Massachusetts-Boston,unknown,Rolling Decision,unknown
+974424,2365,Lehigh University,unknown,Rolling Decision,unknown
+974424,2294,Hobart William Smith Colleges,unknown,Rolling Decision,unknown
+974424,3087,Boston University,unknown,Rolling Decision,unknown
+974424,3083,Boston College,,Rolling Decision,unknown
+974424,3966,Eastern Connecticut State University,unknown,Early Action,unknown
+974424,3770,Stonehill College,unknown,Early Action II,unknown
+974424,2400,Marist College,unknown,Rolling Decision,unknown
+974424,3918,University of New Hampshire-Main Campus,unknown,Rolling Decision,unknown
+974424,2928,University of Rochester,unknown,Rolling Decision,unknown
+990325,3390,Fairfield University,,Early Action,unknown
+990325,2823,Syracuse University,withdrawn,Rolling Decision,unknown
+990325,3918,University of New Hampshire-Main Campus,withdrawn,Early Action,unknown
+990325,5183,Elon University,,Early Action,unknown
+990325,5113,College of Charleston,withdrawn,Early Action,unknown
+990325,3917,University of Massachusetts-Amherst,withdrawn,Early Action,unknown
+990325,3693,Providence College,accepted,Early Decision,1
+990325,2400,Marist College,withdrawn,Early Action,unknown
+1005491,2669,Pratt Institute-Main,,Rolling Decision,unknown
+1005491,4847,University of Portland,,Rolling Decision,unknown
+1005491,3003R,Amherst College,,Early Action,unknown
+1005491,3693,Providence College,,Rolling Decision,unknown
+1005491,987A,Jack Kent Cooke Foundation,,Rolling Decision,unknown
+1005491,5246,The George Washington University,,Rolling Decision,unknown
+1005491,3920,University of Vermont,,Early Action,unknown
+1005491,3915,University of Connecticut,,Rolling Decision,unknown
+1005491,2926,University of Pennsylvania,,Rolling Decision,unknown
+1005491,3094,Brown University,unknown,Rolling Decision,unknown
+1005491,2259,Fordham University,accepted,Early Action,unknown
+1005491,2562,New York University,,Rolling Decision,unknown
+1005491,3003R,Amherst College,unknown,Rolling Decision,unknown
+1005491,5113,College of Charleston,denied,Rolling Decision,unknown
+1005491,5111,Clemson University,accepted,Early Action,unknown
+1005491,1839,University of Michigan-Ann Arbor,unknown,Rolling Decision,unknown
+1005491,2823,Syracuse University,accepted,Rolling Decision,unknown
+1005491,3083,Boston College,,Rolling Decision,unknown
+1005491,3094,Brown University,unknown,Rolling Decision,unknown
+1005491,4850,University of San Francisco,unknown,Rolling Decision,unknown
+1005491,4852,University of Southern California,unknown,Rolling Decision,unknown
+1005491,4630,Pepperdine University,accepted,Early Action,unknown
+1005491,6832,Tulane University of Louisiana,accepted,Early Action,1
+1005491,3919,University of Rhode Island,,Rolling Decision,unknown
+1005491,4704,Stanford University,,Rolling Decision,unknown
+1005491,CC4220,Northwestern University,denied,Rolling Decision,unknown
+1005491,5223,Eckerd College,unknown,Early Action,unknown
+1005491,5815,University of Miami,denied,Rolling Decision,unknown
+1005491,2400,Marist College,,Rolling Decision,unknown
+1005491,5244,Georgetown University,unknown,Early Action,1
+1005491,2050,Bucknell University,,Rolling Decision,unknown
+1005491,1841,University of Notre Dame,unknown,Rolling Decision,unknown
+1005491,3094,Brown University,,Rolling Decision,unknown
+1005491,2037,Bard College,unknown,Early Action,unknown
+498918,2259,Fordham University,denied,Early Action,unknown
+498918,1412,Loyola University Chicago,accepted,Rolling,unknown
+498918,3915,University of Connecticut,accepted,Rolling Decision,unknown
+498918,2562,New York University,denied,Rolling Decision,unknown
+498918,2194,Drexel University,accepted,Early Action,unknown
+498918,1465,Michigan State University,accepted,Early Action,unknown
+498918,2823,Syracuse University,accepted,Rolling Decision,unknown
+498918,4403,Loyola Marymount University,accepted,Early Decision,1
+974195,5113,College of Charleston,withdrawn,Early Action,0
+974195,1463,Miami University-Oxford,accepted,Early Action,0
+974195,5819,The University of Tampa,jan. admit,Early Action,1
+974195,5229,Florida Atlantic University,jan. admit,Rolling,0
+974195,5403,Salisbury University,accepted,Early Action,0
+974195,5837,Coastal Carolina University,accepted,Early Action,0
+974195,5105,University of North Carolina at Charlotte,accepted,Early Action,0
+974195,1843,The University of Tennessee-Knoxville,unknown,Early Action,0
+974195,1834,University of Dayton,accepted,Early Action,0
+974195,4832,University of Arizona,accepted,Rolling,0
+990167,3759,Salve Regina University,accepted,Early Action,1
+990167,4619,Pitzer College,unknown,Early Decision,unknown
+973843,2757,Rensselaer Polytechnic Institute,,Early Action,0
+973843,3915,University of Connecticut,accepted,Rolling Decision,0
+973843,987A,Jack Kent Cooke Foundation,,Rolling Decision,0
+973843,2562,New York University,,ED2,0
+973843,3087,Boston University,,Rolling Decision,0
+973843,2074,Carnegie Mellon University,,Rolling Decision,0
+973843,3667,Northeastern University,accepted,Early Decision,1
+973843,2760,Rochester Institute of Technology,,Rolling Decision,0
+973843,2823,Syracuse University,,Rolling Decision,0
+973843,2259,Fordham University,withdrawn,Early Action,0
+973843,2548,Stony Brook University,,Rolling Decision,0
+973843,3917,University of Massachusetts-Amherst,,Rolling Decision,0
+973843,3969,Worcester Polytechnic Institute,,Rolling Decision,0
+973843,2098,Cornell University,,Early Decision,0
+973843,2819,Stevens Institute of Technology,,Rolling Decision,0
+973843,4851,Santa Clara University,,Early Action,0
+974472,1830,The University of Alabama,accepted,Rolling,0
+974472,987A,Jack Kent Cooke Foundation,,Rolling Decision,0
+974472,2811,Seton Hall University,,Early Action,0
+974472,,University of Connecticut-Stamford,accepted,Rolling Decision,0
+974472,3966,Eastern Connecticut State University,accepted,Early Action,1
+974472,3087,Boston University,unknown,Rolling Decision,0
+974472,2416,Monmouth University,accepted,Early Action,0
+974472,3693,Providence College,denied,Early Action,0
+974472,3712,Quinnipiac University,accepted,Early Action,0
+974472,5113,College of Charleston,unknown,Early Action,0
+974472,5219,Florida State University,denied,Rolling Decision,0
+974472,5811,University of Delaware,denied,Early Action,0
+974472,2324,Iona University,accepted,Early Action,0
+974472,3481,Lasell University,accepted,Early Action,0
+974472,5837,Coastal Carolina University,accepted,Early Action,0
+974472,5183,Elon University,unknown,Early Action,0
+974472,5885,Wake Forest University,,Early Action,0
+974472,3919,University of Rhode Island,accepted,Early Action,0
+974472,3759,Salve Regina University,denied,Early Action,0
+974472,3918,University of New Hampshire-Main Campus,,Early Action,0
+974472,,University of Connecticut-Stamford,unknown,Rolling Decision,0
+974472,3915,University of Connecticut,denied,Rolling Decision,0
+974472,3390,Fairfield University,,ED2,0
+993694,5183,Elon University,unknown,Early Action,1
+993694,5293,High Point University,unknown,Early Decision,unknown
+993694,5111,Clemson University,unknown,Early Action,unknown
+993694,2660,Pennsylvania State University-Penn State Main Campus,unknown,Early Action,unknown
+993694,5814,University of Maryland-College Park,,Early Action,unknown
+993694,2050,Bucknell University,,Rolling Decision,unknown
+993694,2365,Lehigh University,,Rolling Decision,unknown
+993694,2259,Fordham University,,Early Action,unknown
+993694,2823,Syracuse University,unknown,Rolling Decision,unknown
+993694,6820,Texas Christian University,,Early Action,unknown
+993694,1843,The University of Tennessee-Knoxville,unknown,Early Action,unknown
+993694,2814,Siena College,unknown,Early Action,unknown
+993694,3693,Providence College,unknown,Early Action,unknown
+993694,3915,University of Connecticut,,Rolling Decision,unknown
+993694,5370,Loyola University Maryland,unknown,Early Action,unknown
+973823,2760,Rochester Institute of Technology,denied,Rolling Decision,0
+973823,1833,University of Cincinnati-Main Campus,accepted,Early Action,0
+973823,3369,Endicott College,accepted,Early Action II,1
+973823,1631,Purdue University-Main Campus,denied,Rolling Decision,0
+973823,3958,Wentworth Institute of Technology,accepted,Early Action II,0
+973823,2757,Rensselaer Polytechnic Institute,accepted,Rolling Decision,0
+973823,2920,Union College (NY),accepted,Rolling Decision,0
+973823,3729,Roger Williams University,accepted,Rolling Decision,0
+973823,3291,Champlain College,,Rolling Decision,0
+973823,3667,Northeastern University,denied,Rolling Decision,0
+973822,3087,Boston University,denied,Rolling Decision,0
+973822,3096,Bentley University,accepted,Rolling Decision,0
+973822,3667,Northeastern University,denied,Early Action,0
+973822,3915,University of Connecticut,accepted,Rolling Decision,1
+973822,3693,Providence College,accepted,Early Action,0
+973822,2548,Stony Brook University,accepted,Rolling Decision,0
+973822,3917,University of Massachusetts-Amherst,accepted,Early Action,0
+973822,3279,Clark University,accepted,Early Action,0
+973822,3759,Salve Regina University,accepted,Early Action,0
+973822,3367,Emerson College,accepted,Early Action,0
+973844,5856,Stevenson University,accepted,Rolling,0
+973844,3911,University of Massachusetts-Lowell,accepted,Early Action,0
+973844,,University of Connecticut-Stamford,accepted,Rolling Decision,0
+973844,3390,Fairfield University,unknown,Early Action,0
+973844,3693,Providence College,,Rolling Decision,0
+973844,2416,Monmouth University,denied,Early Action,0
+973844,3649,Southern New Hampshire University,accepted,Early Action,0
+973844,3712,Quinnipiac University,accepted,Early Action,1
+973844,3898,Central Connecticut State University,accepted,Rolling Decision,0
+973844,3915,University of Connecticut,denied,Rolling Decision,0
+973844,3662,Southern Connecticut State University,accepted,Rolling,0
+973844,3919,University of Rhode Island,denied,Early Action,0
+973844,3918,University of New Hampshire-Main Campus,cond. accept,Early Action,0
+973844,3729,Roger Williams University,accepted,Early Action,0
+973844,3780,Sacred Heart University,accepted,Early Action,0
+996713,3390,Fairfield University,accepted,Early Action,0
+996713,2548,Stony Brook University,accepted,Early Action,0
+996713,2037,Bard College,accepted,Early Action,0
+996713,2074,Carnegie Mellon University,unknown,Rolling Decision,0
+996713,2098,Cornell University,denied,Rolling Decision,0
+996713,2294,Hobart William Smith Colleges,accepted,Early Action,0
+996713,3094,Brown University,denied,Rolling Decision,0
+996713,3092,Brandeis University,,Rolling Decision,0
+996713,3284,Connecticut College,,Rolling Decision,0
+996713,2259,Fordham University,accepted,Early Action,0
+996713,2038,Barnard College,denied,Rolling Decision,0
+996713,2562,New York University,denied,Early Decision,0
+996713,2286,Hamilton College,,Rolling Decision,0
+996713,2810,Sarah Lawrence College,accepted,Early Action,0
+996713,2757,Rensselaer Polytechnic Institute,accepted,Early Action,1
+972125,2325,Ithaca College,,Early Action,0
+972125,3369,Endicott College,unknown,Early Action,0
+972125,2979,Wilson College,accepted,Rolling,0
+972125,2397,Manhattanville University,unknown,Early Action,0
+972125,2353,King's College,accepted,Early Action,0
+972125,2080,Centenary University,accepted,Early Action,0
+972125,2979,Wilson College,unknown,Rolling,0
+972125,3729,Roger Williams University,accepted,Early Action,1
+972125,2400,Marist College,accepted,Early Action,0
+972125,3481,Lasell University,unknown,Early Action,0
+972125,3523,Westfield State University,accepted,Early Action,0
+972125,3966,Eastern Connecticut State University,accepted,Early Action,0
+1002765,5183,Elon University,unknown,Rolling Decision,0
+1002765,5811,University of Delaware,,Rolling Decision,0
+1002765,3917,University of Massachusetts-Amherst,,Rolling Decision,0
+1002765,3919,University of Rhode Island,,Rolling Decision,0
+1002765,5907AM,University of North Carolina Wilmington,,Rolling Decision,0
+1002765,1324A,Indiana University-Bloomington,,Early Action,0
+1002765,2660,Pennsylvania State University-Penn State Main Campus,,Early Action,0
+1002765,5183,Elon University,,Rolling Decision,0
+1002765,1830,The University of Alabama,,Rolling,0
+1002765,5392,James Madison University,,Rolling Decision,0
+1002765,5811,University of Delaware,unknown,Rolling Decision,0
+1002765,3917,University of Massachusetts-Amherst,unknown,Rolling Decision,0
+1002765,3919,University of Rhode Island,unknown,Rolling Decision,0
+1002765,5907AM,University of North Carolina Wilmington,unknown,Rolling Decision,0
+1002765,1324A,Indiana University-Bloomington,unknown,Rolling Decision,0
+1002765,2660,Pennsylvania State University-Penn State Main Campus,unknown,Early Action,0
+1002765,5183,Elon University,unknown,Rolling Decision,0
+1002765,1830,The University of Alabama,unknown,Rolling,0
+1002765,5392,James Madison University,unknown,Rolling Decision,0
+1002765,5907AM,University of North Carolina Wilmington,unknown,Rolling Decision,0
+1002765,5235,Flagler College,unknown,Rolling Decision,0
+1002765,3525,Merrimack College,unknown,Early Action,0
+1002765,3915,University of Connecticut,withdrawn,Rolling Decision,0
+1002765,5814,University of Maryland-College Park,unknown,Rolling Decision,0
+1002765,3898,Central Connecticut State University,withdrawn,Rolling Decision,0
+1002765,5813,University of Georgia,unknown,Rolling Decision,0
+1002765,5392,James Madison University,unknown,Rolling Decision,0
+1002765,1324A,Indiana University-Bloomington,unknown,Rolling Decision,0
+1002765,1843,The University of Tennessee-Knoxville,unknown,Rolling Decision,0
+1002765,2635,Pace University,unknown,Rolling Decision,0
+1002765,3662,Southern Connecticut State University,withdrawn,Rolling,0
+1002765,3919,University of Rhode Island,unknown,Rolling Decision,0
+1002765,5219,Florida State University,unknown,Rolling Decision,0
+1002765,5811,University of Delaware,unknown,Rolling Decision,0
+1002765,5818,University of South Carolina-Columbia,denied,Rolling Decision,0
+1002765,6373,Louisiana State University and Agricultural & Mechanical College,unknown,Rolling Decision,0
+1002765,5837,Coastal Carolina University,unknown,Rolling Decision,0
+1002765,1830,The University of Alabama,unknown,PRI,0
+1002765,5113,College of Charleston,accepted,Early Decision,1
+1002765,3917,University of Massachusetts-Amherst,unknown,Rolling Decision,0
+1002765,2660,Pennsylvania State University-Penn State Main Campus,unknown,Rolling,0
+1002765,1324A,Indiana University-Bloomington,withdrawn,Early Action,0
+1002765,2635,Pace University,,Rolling Decision,0
+1002765,2660,Pennsylvania State University-Penn State Main Campus,withdrawn,Early Action,0
+973933,3083,Boston College,,Rolling Decision,0
+973933,5187,Emory University,,Rolling Decision,0
+973933,1164,Denison University,accepted,Rolling Decision,1
+973933,5885,Wake Forest University,unknown,Rolling Decision,0
+973933,4852,University of Southern California,,Rolling Decision,0
+973933,5150,Davidson College,unknown,Rolling Decision,0
+973933,1099,Capital University,,OTH,0
+973933,4619,Pitzer College,,Rolling Decision,0
+973933,3076,Bates College,denied,Rolling Decision,0
+973933,2086,Colgate University,,Rolling Decision,0
+973933,4841,University of Colorado Boulder,accepted,Early Action,0
+973933,2286,Hamilton College,denied,Rolling Decision,0
+973933,3915,University of Connecticut,denied,Rolling Decision,0
+973933,5887,Washington and Lee University,,Rolling Decision,0
+973933,4403,Loyola Marymount University,unknown,Early Action,0
+973933,2050,Bucknell University,accepted,Rolling Decision,0
+973933,4846,University of Oregon,accepted,Rolling Decision,0
+973933,4851,Santa Clara University,unknown,Early Action,0
+973933,2400,Marist College,accepted,Early Action,0
+973933,1370,Kenyon College,unknown,Rolling Decision,0
+973933,1587,Oberlin College,unknown,Rolling Decision,0
+973933,1846,University of Wisconsin-Madison,,Rolling Decision,0
+973933,3367,Emerson College,unknown,Rolling Decision,0
+973933,2815,Skidmore College,,Rolling Decision,0
+973933,3526,Middlebury College,,Rolling Decision,0
+973933,4654,Reed College,unknown,Early Action,0
+973933,3667,Northeastern University,,Early Action,0
+973933,3920,University of Vermont,accepted,Early Action,0
+973933,5007,American University,accepted,Rolling Decision,0
+973933,2365,Lehigh University,,Rolling Decision,0
+973933,2361,Lafayette College,accepted,Rolling Decision,0
+973933,6390,Macalester College,accepted,Rolling Decision,0
+974625,4075,Colorado State University-Fort Collins,,Rolling Decision,0
